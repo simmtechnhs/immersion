@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chris Jacobs
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Medical education researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Great Western Hospital and University of Bath
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include; immersive technology, healthcare simulation, and medical education.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Primary care medicine
+  - Medical education
+  
 
 education:
   courses:
