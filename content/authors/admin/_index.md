@@ -10,7 +10,7 @@ role: Medical education researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Great Western Hospital and University of Bath
+  - name: Great Western Hospital and University of Bath YES
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: Bath University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
